@@ -1,0 +1,36 @@
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 42px;
+    color: blue;
+}
+
+.div-recipe {
+    background-color: yellow;
+    font-family: 'Monotype Corsiva';
+}
+
+.link {
+    font-size: 33px;
+}
+
+.div-banana {
+    background-color: bisque;
+}
+
+.ul-banana, .ol-banana {
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.div-chicken {
+    background-color: beige;
+}
+
+.ul-chicken, .ol-chicken {
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
