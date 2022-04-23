@@ -12,13 +12,18 @@ h1 {
 
 .div-recipe {
     background-color: yellow;
-    font-family: 'Monotype Corsiva';
+    font-family: verdana;
     border: 2px dotted blue;
+    color: red;
 }
-
+.a1{
+    margin-bottom: 20px;
+}
 .link {
     font-size: 33px;
-    border: 5px dashed greenyellow;
+    border: 2px dashed greenyellow;
+    padding: 20px;
+    display: inline-block;
 }
 
 .div-banana {
